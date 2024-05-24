@@ -35,4 +35,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurahimSharifjonov&show_icons=true&theme=gotham" alt="AbdurahimSharifjonv" />
 
-<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?AbdurahimSharifjonov=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=AbdurahimSharifjonov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) </p>
