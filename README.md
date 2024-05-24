@@ -33,6 +33,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurahimSharifjonov&show_icons=true&theme=gotham" alt="AbdurahimSharifjonv" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbdurahimSharifjonov&show_icons=true&theme=gotham" alt="AbdurahimSharifjonov" />
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="AbdurahimSharifjonv" />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AbdurahimSharifjonov&theme=matrix" alt="AbdurahimSharifjonv" />
